@@ -1,3 +1,0 @@
-hacer presentacion;true
-dar de comer a jazmin;false
-limpiar comedor;false
